@@ -2,9 +2,16 @@
   "RSpec": {
     "coverage": {
       "/Users/Neil/Projects/Battle/spec/features/enter_names_spec.rb": [
+        null,
         1,
         1,
         1,
+        1,
+        null,
+        null
+      ],
+      "/Users/Neil/Projects/Battle/spec/features/hit_points_spec.rb": [
+        null,
         1,
         1,
         1,
@@ -21,6 +28,6 @@
         null
       ]
     },
-    "timestamp": 1539701551
+    "timestamp": 1539703256
   }
 }

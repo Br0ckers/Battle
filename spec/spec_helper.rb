@@ -1,6 +1,6 @@
 require 'simplecov'
 require 'simplecov-console'
-
+require 'features/web_helpers'
 ENV['RACK_ENV'] = 'test'
 
 # require our Sinatra app file
